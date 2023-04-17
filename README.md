@@ -1,59 +1,49 @@
 # Trilha de Front End da UNISAL 2022
 
-Status: Concluido.
+Nesse repositorio você encontrara dois projetos um em Reactjs e outro em Nextjs.
 
-# Sobre
+O codigo feito em Reactjs foi o codigo feito na trilha de front end da UNISAL em 2022 ja o em Nextjs foi feito 1 ano depois utilizando o Nextjs.
 
-+ Aplicação React
-+ Site de filmes e series como Netflix e HBO max.
 
-# Getting Started with Create React App
+## Sobre O Uniflix
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+O Uniflix é uma plataforma online de entretenimento que oferece aos seus usuários uma ampla variedade de filmes e séries, semelhante a outras plataformas populares como Netflix e HBO Max. 
 
-## Available Scripts
+Com sua interface intuitiva e fácil de usar, o Uniflix permite que os usuários descubram novos conteúdos, assistam seus programas favoritos e acompanhem as últimas novidades do mundo do entretenimento, tudo em um só lugar.
 
-In the project directory, you can run:
 
-### `yarn start`
+## Demonstração
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[![Site](https://media.discordapp.net/attachments/1012374528422334525/1097238896330412093/image.png?width=1200&height=494)](https://youtu.be/kRHJDTAxbW8)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `yarn test`
+# Instalação
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Antes de começar, certifique-se de ter instalado o Git, o Node.js e o NPM na sua máquina. 
 
-### `yarn build`
+Se você ainda não tem essas ferramentas instaladas, siga as instruções em seus respectivos sites oficiais para instalar em seu sistema operacional.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Baixando e executando um projeto React
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+No canto direito da página do repositório, clique no botão "Code".
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Copie o link apresentado em "Clone with HTTPS" ou "Clone with SSH", dependendo de como você configurou sua conta do GitHub.
 
-### `yarn eject`
+Abra o Git Bash ou o terminal de sua preferência e navegue até o diretório em que deseja salvar o projeto.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Digite o comando git clone seguido do link que você copiou no passo 3. Por exemplo:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+    git clone https://github.com/username/project-name.git
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Pressione Enter e o projeto será baixado para o seu diretório atual.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Abra o terminal na pasta do projeto e digite o comando npm install para instalar as dependências do projeto.
 
-## Learn More
+Em seguida, digite o comando npm run dev para iniciar o servidor de desenvolvimento.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Abra o seu navegador e navegue até http://localhost:3000 para ver o projeto em execução.
 
 # Host
 
  + https://vercel.com/
+ 
